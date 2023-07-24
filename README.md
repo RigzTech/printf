@@ -1,1 +1,1 @@
-ALX Printf Collaboration project
+ALX Printf Collaboration project, Fred and Wallace
